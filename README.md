@@ -7,4 +7,7 @@ This game doesn't have User Interface, it just rune in your terminal.
 
 #Here is some test screenshots
 
-![]('img-gallary-141.herokuapp.com/media/diagnwinner1.png')
+![test](http://img-gallary-141.herokuapp.com/media/diagnwinner1.png)
+
+
+
